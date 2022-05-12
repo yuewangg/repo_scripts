@@ -13,9 +13,7 @@ class ColorLabeler:
 	def __init__(self):
 		# 初始化一个颜色词典
 		colors = OrderedDict({
-			"red": (255, 0, 0),
-			"green": (0, 255, 0),
-			"blue": (0, 0, 255)})
+			"blue": (30, 40, 80)})
 
 		# 为LAB图像分配空间
 		self.lab = np.zeros((len(colors), 1, 3), dtype="uint8")
