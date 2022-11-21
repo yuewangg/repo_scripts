@@ -1,1 +1,5 @@
-data/
+*.jpg
+*.mp3
+*.mp4
+*.json
+data/*
