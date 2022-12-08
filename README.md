@@ -7,3 +7,9 @@
 ## NO.3
 ### an Extended Kalman Filter which fuses accelerometer and gyroscope readings to get the orientation.
 > View the code [here](./scripts/EKF_IMU.m)
+## NO.4
+### Batch file renaming in folders.
+> View the code [here](./scripts/rename_file.py)
+## NO.5
+### Handling coco dataset over-boundary problem.
+> View the code [here](./scripts/boundary_process.py)
