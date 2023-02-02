@@ -1,5 +1,5 @@
 # My CV
-> View [here](./scripts/cv/cv_zh.md)
+> View [here](./scripts/cv/cv_en.md)
 ## NO.1
 ### Coursework on Vision Measurement and Control for Machine
 > View the code [here](./scripts/monocular_camera_ranging.py)
