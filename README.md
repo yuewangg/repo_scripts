@@ -15,3 +15,11 @@
 ## NO.5
 ### Handling coco dataset over-boundary problem.
 > View the code [here](./scripts/boundary_process.py)
+## NO.6
+### Test whether the gpu is available in the conda environment.
+> View the code [here](./scripts/gpu.py)
+## NO.7
+### Test whether the openmmlab is available in the conda environment.
+> View the code [here](./scripts/check_openmmlab.py)
+
+

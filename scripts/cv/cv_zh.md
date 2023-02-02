@@ -27,9 +27,9 @@
 
 ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息
 
-- 男，1997 年出生
-- 求职意向：算法工程师（实习）
+- 男，山东德州人
 - 兴趣爱好：跑步、篮球、围棋
+- 研究方向：面向动态环境的长期SLAM算法研究
 - 个人主页：[https://yuewangg.github.io/](https://yuewangg.github.io/)
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
@@ -59,9 +59,12 @@
 - **[MMYOLO](https://github.com/yuewangg/mmyolo/tree/dev)**
 
   *支持MMYOLO中的YOLOv5 实例分割任务，对齐 YOLOv5 实例分割精度和训练速度，主要负责数据变换部分（mosaic、randaffine 和 polygons2masks）和 loss 部分*
-- **基于高通DSP的6DOF位姿估计算法**
+- **基于高通骁龙XR2的6DOF姿态估计算法**
 
-  *在ORB_SLAM3基础上在运算速度方面进行优化，在基于高通DSP的VR设备上运行数据集，使用脚本进行计算用时统计和CPU使用率统计、以及功耗数据统计，进行试验对比*
+  *在ORB_SLAM3基础上在运算速度方面进行优化，在PICO 4头显设备上运行数据集，使用脚本进行计算用时统计和CPU使用率统计、以及功耗数据统计，进行试验对比*
+- **针对缝纫机器人的自动合片算法**
+
+  *保证前后裁片精准对齐，为下一个阶段的缝纫提供输入，主要负责裁片分割模块和标定模块，裁片分割模块分为裁片分割和轮廓关键点提取，标定模块包括相机内参标定和相机坐标系到机床坐标系外参标定*
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
@@ -69,6 +72,6 @@
 - ★★★★☆ Python
 - ★★★☆☆ PyTorch
 - ★★★★☆ MATLAB
-- ★★☆☆☆ ROS/ROS2
+- ★★☆☆☆ ROS
 - ★★★☆☆ Linux
 - ★★★★☆ Git
